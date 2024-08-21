@@ -45,5 +45,6 @@ High-Risk Loans (1): 91%
 **Summary**:
 The logistic regression model performs well in predicting healthy loans, with an accuracy of 99% and perfect precision and recall for this class. The model is also quite effective at predicting high-risk loans, achieving a precision of 86% and a recall of 91%. This indicates that the model is highly reliable for identifying healthy loans and reasonably effective at detecting high-risk loans.
 
-Recommendation: Based on the results, I recommend using this logistic regression model for credit risk assessment. The model’s high accuracy and strong performance in both precision and recall make it a valuable tool for financial institutions to identify risky loans and take appropriate actions. However, further improvements could be made to enhance the detection of high-risk loans, possibly by exploring additional features or more complex models.
+**Recommendation**: 
+Based on the results, I recommend using this logistic regression model for credit risk assessment. The model’s high accuracy and strong performance in both precision and recall make it a valuable tool for financial institutions to identify risky loans and take appropriate actions. However, further improvements could be made to enhance the detection of high-risk loans, possibly by exploring additional features or more complex models.
 

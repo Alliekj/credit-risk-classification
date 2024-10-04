@@ -1,7 +1,7 @@
 
 # Credit Risk Classification
 
-This project involves building a machine learning model to predict the likelihood of a loan being high-risk or healthy based on various financial factors. The primary objective is to help financial institutions assess credit risk more effectively and make informed lending decisions.
+This is a machine learning model to predict the credit risk of a loan based on the borrower's financial data. The objective is to help financial institutions assess credit risk more effectively and make informed lending decisions.
 
 ## Overview of the Analysis
 
